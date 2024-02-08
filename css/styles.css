@@ -102,7 +102,7 @@ address {
   letter-spacing: 0.02em;
 }
 .our-team-first {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 .title-h {
   font-weight: 700;
@@ -112,6 +112,7 @@ address {
   text-transform: capitalize;
   color: #2e2f42;
   text-align: center;
+  background-color: #ffffff;
 }
 .section-footer {
   background-color: #2e2f42;
