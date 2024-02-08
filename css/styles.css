@@ -89,8 +89,10 @@ address {
 .strategy {
   font-weight: 500;
   font-size: 20px;
-  line-height: 120%;
+  line-height: 1.11;
   letter-spacing: 0.02em;
+
+  background-color: #FFFFF;
 }
 .text {
   color: #434455;
@@ -105,10 +107,11 @@ address {
 .title-h {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.5;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  text-align: center;
 }
 .section-footer {
   background-color: #2e2f42;
@@ -121,7 +124,4 @@ address {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-}
-.web-title {
-  color: #f4f4fd;
 }
