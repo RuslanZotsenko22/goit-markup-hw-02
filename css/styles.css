@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
+  color: #434455;
   background-color: #ffffff;
 }
 ul {
@@ -14,14 +14,13 @@ a {
 address {
   font-style: normal;
 }
-.web {
+.web-title {
   color: #4d5ae5;
 }
-.studio {
-  font-family: Raleway;
+.studio-title {
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -42,7 +41,7 @@ address {
   color: #4d5ae5;
 }
 
-.nav2 {
+.navigation-second {
   color: #434455;
 
   font-size: 16px;
@@ -68,8 +67,7 @@ address {
   line-height: 150%;
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
-  border-radius: 4px;
-  padding: 16px 32px;
+
   border: none;
   cursor: pointer;
 }
@@ -85,7 +83,7 @@ address {
   line-height: 120%;
   letter-spacing: 0.02em;
 }
-.pp {
+.text {
   color: #434455;
 
   font-size: 16px;
@@ -103,15 +101,15 @@ address {
   text-transform: capitalize;
   text-align: center;
 }
-.section1 {
+.section-footer {
   background-color: #2e2f42;
 }
-.studio1 {
+.studio-first {
   color: #f4f4fd;
 }
-.web1 {
+.web-title {
   color: #4d5ae5;
 }
-.over {
+.text {
   color: #f4f4fd;
 }
