@@ -15,10 +15,12 @@ address {
   font-style: normal;
 }
 .web-title {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 .studio-title {
+  color: #4d5ae5;
   font-size: 18px;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.54px;
@@ -35,6 +37,7 @@ address {
   font-style: normal;
   font-weight: 500;
   line-height: 24px;
+  color: #2e2f42;
   letter-spacing: 0.32px;
 }
 .nav2:hover {
@@ -48,12 +51,18 @@ address {
   line-height: 150%;
   letter-spacing: 0.02em;
 }
+
+.navigation-second:hover,
+.navigation-second:focus {
+  color: #404bbf;
+}
+
 .section {
   background-color: #2e2f42;
 }
-.h1 {
+.title {
   color: #ffffff;
-
+  text-align: center;
   font-weight: 700;
   font-size: 56px;
   line-height: 107%;
@@ -61,7 +70,6 @@ address {
 }
 .button {
   color: #ffffff;
-
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
@@ -71,7 +79,8 @@ address {
   border: none;
   cursor: pointer;
 }
-.button:hover {
+.button:hover,
+.button:focus {
   background-color: #404bbf;
 }
 .benefits {
@@ -87,29 +96,32 @@ address {
   color: #434455;
 
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .our-team {
   background-color: #f4f4fd;
 }
-.h2 {
+.title-h {
   font-weight: 700;
   font-size: 36px;
-  line-height: 111%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  text-align: center;
+  color: #2e2f42;
 }
 .section-footer {
   background-color: #2e2f42;
 }
 .studio-first {
-  color: #f4f4fd;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 .web-title {
-  color: #4d5ae5;
-}
-.text {
   color: #f4f4fd;
 }
