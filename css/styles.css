@@ -132,3 +132,14 @@ address {
 .team-card {
   background-color: #ffffff;
 }
+.studio-second {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+.footer-studio {
+  color: #f4f4fd;
+}
+.text-footer {
+  color: #f4f4fd;
+}
